@@ -1,0 +1,54 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.heading{
+    font-size: 50px;
+    font-family: 'Patua One', cursive;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 20px;
+    color: coral;
+    text-shadow: 2px 2px orange;
+    text-decoration: underline;
+}
+
+.back{
+    font-size: 25px;
+    color: cyan;
+    background-color: darkcyan;
+    padding: 10px;
+    padding-bottom: 15px !important;
+    border-width: 3px;
+    border-style: solid;
+    border-color: aquamarine;
+    border-radius: 10px;
+    float: left;
+    margin-left: 30px;
+    font-weight: bolder;
+    margin-top: -7%;
+}
+
+#status{
+    margin-top: -10px;
+    font-size: 25px;
+    color: black;
+    background-color: rgb(205, 227, 95);
+}
+
+#status:hover{
+    cursor: default;
+}
+
+#label{
+    font-size: 25px;
+    color: black;
+    background-color: greenyellow;
+}
+
+canvas{
+    box-shadow: 1px 1px 20px yellow;
+    border-radius: 10px;
+}

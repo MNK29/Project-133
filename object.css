@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(to left, #ffcc66 0%, #ffff99 80%);
+}
+
+.heading{
+    font-size: 50px;
+    font-family: 'Patua One', cursive;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 20px;
+    color: coral;
+    text-shadow: 2px 2px orange;
+    text-decoration: underline;
+}
+
+.heading:hover{
+    cursor: default;
+}
+
+label{
+    font-size: 20px;
+    color: red;
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+a:hover{
+    color: rgb(98, 86, 46);
+}
+
+.buttons{
+    font-size: 30px;
+    border-width: 8px;
+    border-radius: 15px;
+    border-color: black;
+    color: rgb(98, 86, 46);
+    padding: 20px;
+    width: 20%;
+    background-color: rgb(221, 205, 97);
+}
